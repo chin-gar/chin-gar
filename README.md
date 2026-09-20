@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Gary, and I am a computer science student. I’m looking for help with finding my true passion/specialty within this vast field. Outside of tech, I like to work out and cook at home.
+- 🔭 I’m currently working on a [threadless HTTPS epoll server](https://github.com/chin-gar/secure-socket-anime-list-server) to understand how web servers work under the hood and the importance of secure code.
+- 🌱 I’m currently learning how to use AI to tutor me in my journey of learning networking, systems, and security.
+
+### 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/gary-chin-953669434/
+
+
 <!--
 **chin-gar/chin-gar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
