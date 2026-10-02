@@ -4,6 +4,8 @@ My name is Gary, and I am a computer science student. I’m looking for help wit
 - 🔭 I’m currently working on a [threadless HTTPS epoll server](https://github.com/chin-gar/secure-socket-anime-list-server) to understand how web servers work under the hood and the importance of secure code.
 - 🌱 I’m currently learning how to use AI to tutor me in my journey of learning networking, systems, and security.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chin-gar&layout=compact)
+
 ### 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/gary-chin-953669434/
 
