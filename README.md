@@ -2,7 +2,7 @@
 
 My name is Gary, and I am a computer science student. I’m looking for help with finding my true passion/specialty within this vast field. Outside of tech, I like to work out and cook at home, or just browse Youtube videos.
 - 🔭 I’m currently working on a [threadless HTTPS epoll server](https://github.com/chin-gar/secure-socket-anime-list-server) to understand how web servers work under the hood and the importance of secure code.
-- 🌱 I’m currently learning the abstraction of computers via Nand2Tetris, and plan to reinforce web/network security concepts via auditing PortSwigger and/or Cisco Networking Academy afterwards.
+- 🌱 I’m currently planning to reinforce web/network security concepts via auditing Cisco Networking Academy and PortSwigger afterwards.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chin-gar&layout=compact)
 
