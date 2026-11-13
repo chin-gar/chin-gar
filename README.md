@@ -4,8 +4,7 @@ My name is Gary, and I am a computer science student. I’m looking for help wit
 - 🔭 I’m currently working on examining my homelab and processing how it all works.
 - 🌱 I’m currently planning to think of project ideas that will contribute to my homelab and understanding of systems/networking/security.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chin-gar&layout=compact)
-
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=chin-gar&layout=compact&theme=tokyonight)   
 ### 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/gary-chin-953669434/
 
